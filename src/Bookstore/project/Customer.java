@@ -1,4 +1,4 @@
-package coe528.project;
+package Bookstore.project;
 
 public class Customer {
     

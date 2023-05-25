@@ -1,4 +1,4 @@
-package coe528.project;
+package Bookstore.project;
 //creates an abstract class called CustomerStatus
 public abstract class CustomerStatus {
     

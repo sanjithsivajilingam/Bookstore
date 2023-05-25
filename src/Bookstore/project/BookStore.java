@@ -1,4 +1,4 @@
-package coe528.project;
+package Bookstore.project;
 
 import java.awt.Font;
 import java.io.IOException;

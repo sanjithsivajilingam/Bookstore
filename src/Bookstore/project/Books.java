@@ -1,5 +1,5 @@
 
-package coe528.project;
+package Bookstore.project;
 
 import javafx.scene.control.CheckBox;
 public class Books {
